@@ -8,7 +8,7 @@ Automates:
 - [ ] Whatsap
 
 ___
-=====
+
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/r-cli.svg)](https://npmjs.org/package/r-cli)
