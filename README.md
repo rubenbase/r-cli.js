@@ -33,6 +33,7 @@ USAGE
 <!-- commands -->
 * [`rcli hello [FILE]`](#rcli-hello-file)
 * [`rcli help [COMMAND]`](#rcli-help-command)
+* [`rcli selectenv [FRONT]`](#rcli-selectenv-front)
 
 ## `rcli hello [FILE]`
 
@@ -70,4 +71,23 @@ OPTIONS
 ```
 
 _See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/v2.2.1/src/commands/help.ts)_
+
+## `rcli selectenv [FRONT]`
+
+Pass `front` or `back` to this command to switch environments
+
+```
+USAGE
+  $ rcli selectenv [FRONT]
+
+OPTIONS
+  -e, --name=name  name of the environment you want to switch to
+  -h, --help       show CLI help
+
+EXAMPLE
+  $ rcli selectenv -e [front | back]
+       [Frontend | Backend] configuration loaded!
+```
+
+_See code: [src/commands/selectenv.ts](https://github.com/rubenbase/r-cli/blob/v0.0.0/src/commands/selectenv.ts)_
 <!-- commandsstop -->
