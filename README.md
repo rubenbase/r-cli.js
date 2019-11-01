@@ -1,7 +1,14 @@
 r-cli
 =====
 
-CLI for personal automation stuff.
+#### ®️-CLI to automate personal stuff ✅
+
+Automates:
+- [x] Enviroment Changes + Bastion SSH configurations
+- [ ] Whatsap
+
+___
+=====
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/r-cli.svg)](https://npmjs.org/package/r-cli)
