@@ -5,8 +5,9 @@ r-cli
 
 Automates:
 - [x] Enviroment Changes + Bastion SSH configurations
-- [ ] Whatsap
-
+- [ ] Messages to my family and friends via Whatsapp
+- [ ] Creation of a new project
+  - Automatically buys the domain, creates the repositories in your github account and creates boilerplates for the landing page, the admin panel, the application and the backend and upload all of that into Amazon Web Services.
 ___
 
 
