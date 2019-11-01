@@ -13,7 +13,6 @@ ___
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/rubenbase/r-cli?branch=master&svg=true)](https://ci.appveyor.com/project/rubenbase/r-cli/branch/master)
 [![Codecov](https://codecov.io/gh/rubenbase/r-cli/branch/master/graph/badge.svg)](https://codecov.io/gh/rubenbase/r-cli)
-[![License](https://img.shields.io/npm/l/r-cli.svg)](https://github.com/rubenbase/r-cli/blob/master/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
