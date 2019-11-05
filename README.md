@@ -5,18 +5,15 @@ r-cli
 
 Automates:
 - [x] Enviroment Changes + Bastion SSH configurations
-- [ ] Whatsap
-
+- [ ] Messages to my family and friends via Whatsapp
+- [ ] Creation of a new project
+  - Automatically buys the domain, creates the repositories in your github account and creates boilerplates for the landing page, the admin panel, the application and the backend and upload all of that into Amazon Web Services.
 ___
-=====
+
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/r-cli.svg)](https://npmjs.org/package/r-cli)
-[![CircleCI](https://circleci.com/gh/rubenbase/r-cli/tree/master.svg?style=shield)](https://circleci.com/gh/rubenbase/r-cli/tree/master)
 [![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/rubenbase/r-cli?branch=master&svg=true)](https://ci.appveyor.com/project/rubenbase/r-cli/branch/master)
 [![Codecov](https://codecov.io/gh/rubenbase/r-cli/branch/master/graph/badge.svg)](https://codecov.io/gh/rubenbase/r-cli)
-[![Downloads/week](https://img.shields.io/npm/dw/r-cli.svg)](https://npmjs.org/package/r-cli)
-[![License](https://img.shields.io/npm/l/r-cli.svg)](https://github.com/rubenbase/r-cli/blob/master/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
