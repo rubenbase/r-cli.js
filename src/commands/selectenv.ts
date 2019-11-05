@@ -8,9 +8,21 @@ interface IObject {
   back: string
 }
 
-const homeDir = os.homedir()
-const rootPath = `${homeDir}/.ssh/`
-const fileToPasteTo = `${homeDir}/.ssh/example2`
+const homeDir = `${os.homedir()}/.ssh/`
+const rootPath = `${homeDir}`
+const fileToPasteTo = `${homeDir}config`
+
+/*
+ * Needed before use:
+ * We need 2 configurations in the ~/.ssh config.frontend' and 'config.backend'
+ * 
+ * How to use:
+ * `r-cli selectenv -e [front | back]`
+ * 
+ * What's happening:
+ * This will grab the configuration from the selected environment and update the ssh configurations
+ * for the bastion access.
+ */
 
 export default class Selectenv extends Command {
   /*
