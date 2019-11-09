@@ -1,9 +1,9 @@
-r-cli
+r-cli 
 =====
 
 #### ®️-CLI to automate personal stuff ✅
 
-Automates:
+Automates :
 - [x] Enviroment Changes + Bastion SSH configurations
 - [ ] Messages to my family and friends via Whatsapp
 - [ ] Creation of a new project
